@@ -10,7 +10,7 @@
 
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Às seguintes pessoas que contribuíram para este projeto:
 
 <table>
   <tr>
